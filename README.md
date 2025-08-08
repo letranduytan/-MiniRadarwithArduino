@@ -1,6 +1,6 @@
 # Mini Radar with Arduino
 
-[Miniradar](https://www.youtube.com/watch?v=GVkE3fTdrYw&t=1s).
+Youtube: [Miniradar](https://www.youtube.com/watch?v=GVkE3fTdrYw&t=1s)
 
 ## 📋 Overview
 This project will guide you through building a **mini radar system** using **Arduino**, an **ultrasonic sensor**, and a **servo motor**.  
