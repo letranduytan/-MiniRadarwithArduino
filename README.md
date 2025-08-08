@@ -37,7 +37,7 @@ The radar will scan its surroundings and detect nearby objects, displaying the d
 
 ---
 
-💻 Arduino Code : /adr_radar.ion
+💻 Arduino Code : /adr_radar.ino
 
 ## 📊 Optional: Radar Visualization
 
